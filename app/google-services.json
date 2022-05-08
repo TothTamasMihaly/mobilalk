@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "23293803140",
+    "project_id": "mobilalkalmazas-idopont",
+    "storage_bucket": "mobilalkalmazas-idopont.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23293803140:android:0306f917dcb642618ea0d1",
+        "android_client_info": {
+          "package_name": "com.example.appointment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23293803140-39vcnb30p3a1f6007mdn57hktf77sqnd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appointment",
+            "certificate_hash": "c2e5d678f39c8084c08e5da358ceac2330fa560a"
+          }
+        },
+        {
+          "client_id": "23293803140-i32mmooskp2o3km5mof0nhri4podajta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPjZB5yKek5ZPE-ZNMaXsRIYwtnFJn5kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23293803140-i32mmooskp2o3km5mof0nhri4podajta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

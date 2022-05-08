@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Időpont foglaló</string>
+    <string name="add_new_appointment">Új időpont hozzáadása</string>
+
+    <string name="check_up">Adó ügyintézés</string>
+    <string name="emergency">Általános igazgatás</string>
+    <string name="follow_up">Építéshatóság</string>
+    <string name="routine">Népjólét/szociális</string>
+    <string name="walk_in">Városfejlesztés</string>
+    <string name="priority">Sürgősség</string>
+    <string name="duration">Időtartam</string>
+    <string name="add_participants">Infók hozzáadása</string>
+    <string name="submit">Elküld</string>
+    <string name="back">Vissza</string>
+    <string name="list_all">Összes listázása</string>
+    <string name="add_new">Új hozzáadása</string>
+    <string name="appointments">Időpontok</string>
+    <string name="item_placeholder">TODO</string>
+    <string name="delete">Törlés</string>
+    <string name="edit">Szerkesztés</string>
+    <string name="add_description">Leírás</string>
+    <string name="date_placeholder">Időpont</string>
+
+    <string-array name="appointment_statuses">
+        <item>Proposed</item>
+        <item>Pending</item>
+        <item>Booked</item>
+        <item>Arrived</item>
+        <item>Fulfilled</item>
+        <item>Cancelled</item>
+        <item>No-Show</item>
+        <item>Entered-In-Error</item>
+        <item>Checked-In</item>
+        <item>Wait-List</item>
+    </string-array>
+
+
+    <string-array name="participant_statuses">
+        <item>""</item>
+        <item>Épület építési engedélyezés</item>
+        <item>Bontás</item>
+        <item>Épület használatbavétel</item>
+        <item>Kérelem</item>
+    </string-array>
+
+    <string-array name="participant_actors">
+        <item>""</item>
+        <item>Átmeneti települési támogatás</item>
+        <item>Vagyonnyilatkozat</item>
+        <item>Lakhatási települési támogatás</item>
+        <item>Adósságkezelési célú támogatás</item>
+        <item>Rendszeres gyermekvédelmi kedvezmény</item>
+        <item>Tüzelőanyag vásárlási támogatás</item>
+        <item>Gyógyszer-kiváltási támogatás</item>
+    </string-array>
+
+    <string-array name="participant_required">
+        <item>""</item>
+        <item>Fakivágási kérelem</item>
+        <item>Közterület-használati kérelem</item>
+        <item>Zajkibocsátási megállapítási kérelem</item>
+    </string-array>
+</resources>
